@@ -19,9 +19,9 @@ Questions: [open an issue](https://github.com/nicomz/z-photo-viewer-site/issues)
 
 Z Photo Viewer no recopila, guarda ni envía datos personales. No tiene publicidad, analíticas ni rastreo.
 
-- **Tus fotos** se leen y se modifican solo en tu Mac, en las carpetas que vos elegís. Los cambios (calificaciones, metadatos) se guardan en tus propios archivos.
-- **App Fotos:** la app accede a tu fototeca solo cuando elegís "Agregar a Fotos", para agregar las fotos y, si lo pedís, marcarlas como favoritas.
+- **Tus fotos** se leen y se modifican solo en tu Mac, en las carpetas que eliges. Los cambios (calificaciones, metadatos) se guardan en tus propios archivos.
+- **App Fotos:** la app accede a tu fototeca solo cuando eliges "Agregar a Fotos", para agregar las fotos y, si lo pides, marcarlas como favoritas.
 - **Mapas:** al mostrar un mapa o buscar un lugar se usan los servicios de Apple Maps, sujetos a la política de privacidad de Apple.
-- **Compartir:** las fotos solo salen de tu Mac cuando vos las compartís (AirDrop, Mail, Mensajes, etc.). Podés quitar la ubicación al compartir.
+- **Compartir:** las fotos solo salen de tu Mac cuando las compartes (AirDrop, Mail, Mensajes, etc.). Puedes quitar la ubicación al compartir.
 
-Consultas: [abrí un issue](https://github.com/nicomz/z-photo-viewer-site/issues).
+Consultas: [abre un issue](https://github.com/nicomz/z-photo-viewer-site/issues).
